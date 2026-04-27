@@ -12,9 +12,7 @@
       "android": {
         "buildType": "apk"
       },
-      "env": {
-        "NPM_FLAGS": "--legacy-peer-deps"
-      }
+      "node": "20.0.0"
     },
     "production": {
       "android": {
